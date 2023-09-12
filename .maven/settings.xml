@@ -13,8 +13,8 @@
     </server>
     <server>
       <id>github</id>
-      <username>L058039</username>
-      <password>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</password>
+      <username>PurbitaPallye</username>
+      <password>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</password>
     </server>
   </servers>
 
@@ -51,7 +51,7 @@
         </repository>
         <repository>
           <id>github</id>
-          <url>https://maven.pkg.github.com/EliLillyCo/mqdomain</url>
+          <url>https://maven.pkg.github.com/PurbitaPallye/mqdomain</url>
           <layout>default</layout>
           <releases>
               <enabled>true</enabled>
